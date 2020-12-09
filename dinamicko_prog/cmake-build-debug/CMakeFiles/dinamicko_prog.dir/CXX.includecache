@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FER/Napredni algoritmi i strukture podataka/lab2/dinamicko_prog/main.cpp
+iostream
+-
+vector
+-
+climits
+-
+
